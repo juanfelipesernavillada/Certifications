@@ -17,7 +17,7 @@ Central repository documenting professional credentials, technical training, and
 
 ---
 
-## 🌐 Enterprise Networking & Web Fundamentals
+## 🌐 Enterprise Networking & Infrastructure
 
 <table>
   <tr>
@@ -29,10 +29,10 @@ Central repository documenting professional credentials, technical training, and
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
-      <img src="./others/Certificado_FundamentosSQL_Platzi.png" alt="SQL Fundamentals Certificate" width="100%"/>
+      <img src="./others/Certificado_RedesAvanzado_Platzi.png" alt="Advanced Internet Networks Certificate" width="100%"/>
       <br />
-      <b>SQL & Relational Database Fundamentals</b> <br />
-      <sub>Issued: June 2026</sub> <br />
+      <b>Advanced Internet Networks (Professional)</b> <br />
+      <sub>Issued: April 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
   </tr>
@@ -40,10 +40,17 @@ Central repository documenting professional credentials, technical training, and
 
 ---
 
-## 🗄️ Database Management & Backend Systems
+## 🗄️ Database Management & Query Engineering
 
 <table>
   <tr>
+    <td width="50%" align="center">
+      <img src="./others/Certificado_FundamentosSQL_Platzi.png" alt="SQL Fundamentals Certificate" width="100%"/>
+      <br />
+      <b>SQL & Relational Database Fundamentals</b> <br />
+      <sub>Issued: June 2026</sub> <br />
+      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+    </td>
     <td width="50%" align="center">
       <img src="./others/Certificado_PostgreSQL_Platzi.png" alt="PostgreSQL Course Certificate" width="100%"/>
       <br />
@@ -51,6 +58,8 @@ Central repository documenting professional credentials, technical training, and
       <sub>Issued: June 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <img src="./others/Certificado_SQLServer_Platzi.png" alt="SQL Server Certificate" width="100%"/>
       <br />
@@ -58,14 +67,46 @@ Central repository documenting professional credentials, technical training, and
       <sub>Issued: June 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
+    <td width="50%" align="center">
+      <!-- Espacio reservado para futura certificación de BD -->
+    </td>
   </tr>
 </table>
 
 ---
 
-## 📁 Additional Coursework & Supporting Foundations
+## 💻 Web Development & Analytical Foundations
 
-> ℹ️ *Foundational certificates in Web Development (HTML/CSS), Logic, and complementary technical topics are archived within the [`/others`](./others) directory.*
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./others/Certificado_HTML_CSS_Definitivo_Platzi.png" alt="Definitive HTML and CSS Certificate" width="100%"/>
+      <br />
+      <b>Definitive HTML & CSS Layouts</b> <br />
+      <sub>Issued: June 2026</sub> <br />
+      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+    </td>
+    <td width="50%" align="center">
+      <img src="./others/Certificado_HTML_CSS_Practico_Platzi.png" alt="Practical HTML and CSS Certificate" width="100%"/>
+      <br />
+      <b>Practical HTML & CSS Responsive Web Design</b> <br />
+      <sub>Issued: June 2026</sub> <br />
+      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./others/Certificado_PensamientoLogico_Platzi.png" alt="Logical Thinking Certificate" width="100%"/>
+      <br />
+      <b>Logical Thinking & Problem Solving</b> <br />
+      <sub>Issued: April 2026</sub> <br />
+      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+    </td>
+    <td width="50%" align="center">
+      <!-- Espacio reservado para futura certificación -->
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,3 +115,4 @@ Central repository documenting professional credentials, technical training, and
 - **Cybersecurity & Red Teaming:** Active vulnerability assessment, offensive security labs (HTB), network footprinting, and exploitation principles.
 - **Networking & Infrastructure:** TCP/IP stack analysis, OSI model layers, routing/switching concepts, and network protocol troubleshooting.
 - **Database Engineering:** Relational database design, complex SQL query development, PostgreSQL, and Microsoft SQL Server management.
+- **Frontend & Web Standards:** Semantic HTML5 structure, CSS Flexbox/Grid responsive layouts, and cross-browser rendering.
