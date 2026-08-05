@@ -1,23 +1,46 @@
 # 📜 Technical Certifications & Continuous Learning
 
-Central repository documenting professional training, completed coursework, and verified skill sets across **Cybersecurity & Offensive Security**, **Database Management**, **Computer Networking**, and **Web Development**.
+Central repository documenting professional credentials, technical training, and hands-on skill development across **Cybersecurity & Offensive Security**, **Networking Infrastructure**, **Database Management**, and **Web Technologies**.
 
 ---
 
-## 🛡️ Cybersecurity & Infrastructure Security
+## 🛡️ Cybersecurity & Offensive Security (Primary Focus)
 
-> 🔄 **Active Specialization:** Currently completing hands-on penetration testing environments, vulnerability assessments, and security labs. Official certifications will be added as completed.
+> 🎯 **Featured Target Credentials:** Currently advancing through advanced offensive security tracks and enterprise networking certifications.
 
-| Domain / Area | Focus Topics | Target Completion / Status |
+| Provider / Certification Track | Core Domains | Current Status |
 | :--- | :--- | :--- |
-| **Penetration Testing** | Vulnerability assessment, Web App Security, Exploitation | In Progress |
-| **Network Security** | Packet analysis, Firewall configuration, Protocols | Active Labs |
+| **Hack The Box (HTB)** | Web Application Penetration Testing, Privilege Escalation, Active Directory Exploitation | 🔄 Active Labs & Writeups |
+| **Cisco Security / Networking** | Enterprise Network Defense, Threat Landscape Analysis, Protocol Security | ⏳ Planned |
 
-*(Verified certificates and badges for this domain are stored within the [`/cybersecurity`](./cybersecurity) directory).*
+*(Industry-recognized certifications and HTB badges will be featured here upon completion. Complementary labs and documentation are maintained in the [`/cybersecurity`](./cybersecurity) directory).*
 
 ---
 
-## 🗄️ Database Systems & SQL Administration
+## 🌐 Enterprise Networking & Web Fundamentals
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./others/Certificado_Redes_Platzi.png" alt="Computer Networks Certificate" width="100%"/>
+      <br />
+      <b>Computer Networking & Internet Protocols</b> <br />
+      <sub>Issued: April 2026</sub> <br />
+      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+    </td>
+    <td width="50%" align="center">
+      <img src="./others/Certificado_FundamentosSQL_Platzi.png" alt="SQL Fundamentals Certificate" width="100%"/>
+      <br />
+      <b>SQL & Relational Database Fundamentals</b> <br />
+      <sub>Issued: June 2026</sub> <br />
+      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🗄️ Database Management & Backend Systems
 
 <table>
   <tr>
@@ -29,7 +52,7 @@ Central repository documenting professional training, completed coursework, and 
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
-      <img src="./others/Certificado_SQLServer_Platzi.png" alt="SQL Server Database Management Certificate" width="100%"/>
+      <img src="./others/Certificado_SQLServer_Platzi.png" alt="SQL Server Certificate" width="100%"/>
       <br />
       <b>Database Management with SQL Server</b> <br />
       <sub>Issued: June 2026</sub> <br />
@@ -40,31 +63,14 @@ Central repository documenting professional training, completed coursework, and 
 
 ---
 
-## 🌐 Networking Protocols & Frontend Fundamentals
+## 📁 Additional Coursework & Supporting Foundations
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./img/computer-networks.png" alt="Computer Networks Certificate" width="100%"/>
-      <br />
-      <b>Computer Networking & Internet Protocols</b> <br />
-      <sub>Issued: April 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
-    </td>
-    <td width="50%" align="center">
-      <img src="./img/html-css-definitive.png" alt="HTML & CSS Certificate" width="100%"/>
-      <br />
-      <b>Advanced Responsive Web Layouts (HTML/CSS)</b> <br />
-      <sub>Issued: June 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
-    </td>
-  </tr>
-</table>
+> ℹ️ *Foundational certificates in Web Development (HTML/CSS), Logic, and complementary technical topics are archived within the [`/others`](./others) directory.*
 
 ---
 
-## 🛠️ Core Competencies Summary
+## 🛠️ Technical Competencies Overview
 
-- **Database Engineering:** Relational modeling, DDL/DML queries, PostgreSQL, Microsoft SQL Server.
-- **Networking:** TCP/IP stack, routing fundamentals, network protocol analysis.
-- **Cybersecurity Focus:** Active lab testing, penetration testing concepts, red team practices.
+- **Cybersecurity & Red Teaming:** Active vulnerability assessment, offensive security labs (HTB), network footprinting, and exploitation principles.
+- **Networking & Infrastructure:** TCP/IP stack analysis, OSI model layers, routing/switching concepts, and network protocol troubleshooting.
+- **Database Engineering:** Relational database design, complex SQL query development, PostgreSQL, and Microsoft SQL Server management.
