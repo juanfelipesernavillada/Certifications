@@ -26,14 +26,14 @@ Central repository documenting professional credentials, technical training, and
       <br />
       <b>Computer Networking & Internet Protocols</b> <br />
       <sub>Issued: April 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/2225-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
       <img src="./others/Certificado_Redes_Profesional_Platzi.png" alt="Advanced Internet Networks Certificate" width="100%"/>
       <br />
       <b>Advanced Internet Networks (Professional)</b> <br />
       <sub>Issued: April 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/1770-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
   </tr>
 </table>
@@ -49,14 +49,14 @@ Central repository documenting professional credentials, technical training, and
       <br />
       <b>SQL & Relational Database Fundamentals</b> <br />
       <sub>Issued: June 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/13017-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
       <img src="./others/Certificado_PostgreSQL_Platzi.png" alt="PostgreSQL Course Certificate" width="100%"/>
       <br />
       <b>PostgreSQL Administration & Querying</b> <br />
       <sub>Issued: June 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/12074-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
   </tr>
   <tr>
@@ -65,14 +65,14 @@ Central repository documenting professional credentials, technical training, and
       <br />
       <b>Database Management with SQL Server</b> <br />
       <sub>Issued: June 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/12869-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
       <img src="./others/Certificado_Logica_Platzi.png" alt="Logical Thinking Certificate" width="100%"/>
       <br />
       <b>Logical Thinking & Algorithm Foundations</b> <br />
       <sub>Issued: April 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/12116-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
   </tr>
 </table>
@@ -88,14 +88,14 @@ Central repository documenting professional credentials, technical training, and
       <br />
       <b>Definitive HTML5 & CSS3 Layouts</b> <br />
       <sub>Issued: June 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/2008-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
       <img src="./others/Certificado_HTML_Platzi.png" alt="Practical HTML and CSS Certificate" width="100%"/>
       <br />
       <b>Practical Responsive Web Design</b> <br />
       <sub>Issued: June 2026</sub> <br />
-      <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
+      <a href="https://platzi.com/p/juaserna/curso/1758-course/diploma/detalle/">🔗 Verify Credential</a>
     </td>
   </tr>
 </table>
