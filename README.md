@@ -40,7 +40,7 @@ Central repository documenting professional credentials, technical training, and
 
 ---
 
-## 🗄️ Database Management & Query Engineering
+## 🗄️ Database Management & Problem Solving
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ Central repository documenting professional credentials, technical training, and
     <td width="50%" align="center">
       <img src="./others/Certificado_Logica_Platzi.png" alt="Logical Thinking Certificate" width="100%"/>
       <br />
-      <b>Logical Thinking & Problem Solving</b> <br />
+      <b>Logical Thinking & Algorithm Foundations</b> <br />
       <sub>Issued: April 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
@@ -79,21 +79,21 @@ Central repository documenting professional credentials, technical training, and
 
 ---
 
-## 💻 Web Development & Analytical Foundations
+## 💻 Frontend Engineering & Responsive Layouts
 
 <table>
   <tr>
     <td width="50%" align="center">
       <img src="./others/Certificado_HTML_Definitivo_Platzi.png" alt="Definitive HTML and CSS Certificate" width="100%"/>
       <br />
-      <b>Definitive HTML & CSS Layouts</b> <br />
+      <b>Definitive HTML5 & CSS3 Layouts</b> <br />
       <sub>Issued: June 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
       <img src="./others/Certificado_HTML_Platzi.png" alt="Practical HTML and CSS Certificate" width="100%"/>
       <br />
-      <b>Practical HTML & CSS Responsive Web Design</b> <br />
+      <b>Practical Responsive Web Design</b> <br />
       <sub>Issued: June 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
