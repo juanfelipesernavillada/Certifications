@@ -68,19 +68,11 @@ Central repository documenting professional credentials, technical training, and
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
-      <!-- Espacio reservado para futura certificación de BD -->
-    </td>
-  </tr>
-    <tr>
-    <td width="50%" align="center">
       <img src="./others/Certificado_Logica_Platzi.png" alt="Logical Thinking Certificate" width="100%"/>
       <br />
       <b>Logical Thinking & Problem Solving</b> <br />
       <sub>Issued: April 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
-    </td>
-    <td width="50%" align="center">
-      <!-- Espacio reservado para futura certificación -->
     </td>
   </tr>
 </table>
