@@ -29,7 +29,7 @@ Central repository documenting professional credentials, technical training, and
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
-      <img src="./others/Certificado_RedesAvanzado_Platzi.png" alt="Advanced Internet Networks Certificate" width="100%"/>
+      <img src="./others/Certificado_Redes_Profesional_Platzi.png" alt="Advanced Internet Networks Certificate" width="100%"/>
       <br />
       <b>Advanced Internet Networks (Professional)</b> <br />
       <sub>Issued: April 2026</sub> <br />
