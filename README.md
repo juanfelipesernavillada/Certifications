@@ -80,14 +80,14 @@ Central repository documenting professional credentials, technical training, and
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="./others/Certificado_HTML_CSS_Definitivo_Platzi.png" alt="Definitive HTML and CSS Certificate" width="100%"/>
+      <img src="./others/Certificado_HTML_Definitivo_Platzi.png" alt="Definitive HTML and CSS Certificate" width="100%"/>
       <br />
       <b>Definitive HTML & CSS Layouts</b> <br />
       <sub>Issued: June 2026</sub> <br />
       <a href="VERIFICATION_URL_HERE">🔗 Verify Credential</a>
     </td>
     <td width="50%" align="center">
-      <img src="./others/Certificado_HTML_CSS_Practico_Platzi.png" alt="Practical HTML and CSS Certificate" width="100%"/>
+      <img src="./others/Certificado_HTML_Platzi.png" alt="Practical HTML and CSS Certificate" width="100%"/>
       <br />
       <b>Practical HTML & CSS Responsive Web Design</b> <br />
       <sub>Issued: June 2026</sub> <br />
@@ -96,7 +96,7 @@ Central repository documenting professional credentials, technical training, and
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./others/Certificado_PensamientoLogico_Platzi.png" alt="Logical Thinking Certificate" width="100%"/>
+      <img src="./others/Certificado_Logica_Platzi.png" alt="Logical Thinking Certificate" width="100%"/>
       <br />
       <b>Logical Thinking & Problem Solving</b> <br />
       <sub>Issued: April 2026</sub> <br />
